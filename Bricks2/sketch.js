@@ -46,6 +46,12 @@ function setup() {
 
 function draw() 
 {
+
+   //Hiding The mouse cursor
+   if(mouseX<650&&mouseX>0&&mouseY<650&&mouseY>0)
+	{
+	   noCursor();
+	}
   //INPUTTING POSITIONS COORDINATES
   if(cont==-1)
   {

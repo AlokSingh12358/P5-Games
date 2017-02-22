@@ -6,9 +6,9 @@ Snake 1   -                              https://cdn.rawgit.com/AlokSingh12358/P
 
 Snake 2   -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/d9fd9fb1/Snake_2/index.html
 
-Bricks 1  -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/d9fd9fb1/Bricks2/index.html
+Bricks 1  -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/c2c0263b/Bricks2/index.html
 
-Bricks 2  -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/d9fd9fb1/Bricks1/index.html
+Bricks 2  -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/c2c0263b/Bricks1/index.html
 
 Catch!    -                              https://cdn.rawgit.com/AlokSingh12358/P5-Games/d9fd9fb1/Catch/index.html
 
